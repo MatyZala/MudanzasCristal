@@ -51,7 +51,7 @@ const Form = () => {
             className="focus:outline-none mt-5 bg-black-gradient-2 px-4 py-2 cursor-pointer text-white font-bold w-full"
           />
           <input type="hidden" name="_next" value="https://mudanzas-cristal.vercel.app/" />
-          <input type="hidden" name="_template" value="table" />
+          <input type="hidden" name="_template" value="box" />
           <input type="hidden" name="_autoresponse" value="Gracias por comunicarse con Mudanzas Cristal, en breve sera contactado. Muchas Gracias!" />
         </form>
       </div>
